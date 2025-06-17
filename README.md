@@ -5,9 +5,11 @@ A data visualization dashboard built with **Streamlit**, **Pandas**, **Seaborn**
 ---
 
 ## 📁 Project Structure
-├── main_dashboard.py # Main Streamlit dashboard code
-├── new_day.csv # Preprocessed dataset (expected in same folder)
-└── README.md # Project documentation
+.
+├── main_dashboard.py   # Main Streamlit dashboard code  
+├── new_day.csv         # Preprocessed dataset (expected in same folder)  
+└── README.md           # Project documentation  
+
 
 ---
 
